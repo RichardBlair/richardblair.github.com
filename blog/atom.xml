@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>
+        RSS Feed for RichardLBlair.com    </title>
+        <link href="blog/atom.xml" rel="self" />
+    
+        <link href="/"/>
+    
+        
+    <updated>2012-06-15T16:06:33Z</updated>
+
+    <id>/blog/atom.xml/</id>
+
+            <entry>
+            <title type="html">Writer's Block</title>
+            <author><name>Richard L. Blair</name></author>
+            <link href="/blog/writers_block.html"/>
+            <updated>2012-06-14T00:00:00Z</updated>
+            <published>2012-06-14T00:00:00Z</published>
+            <id>/blog/writers_block.html</id>
+            
+            <content type="html">
+                                &lt;h2 id=&#34;writers-block&#34;&gt;Writer&amp;#8217;s&amp;nbsp;Block&lt;/h2&gt;
+&lt;p&gt;I was really excited to share my thoughts with the world. Writing is something I use to do a lot, but now I have sat down to write my very first post and I’m frozen. I know the points I want to make, the tone I want to use, but I can’t seem to put pen to paper. Or finger to keyboard, rather. I guess this is what they call writer’s block, but I’m just scared to be&amp;nbsp;honest.&lt;/p&gt;
+&lt;p&gt;I have been procrastinating on this for so long. This goes beyond just tonight; it dates back months. It took me forever to put together this site, and look at it. It’s so simple. White background, grey font, some icons from Awesome Font (they really are awesome). This site is really nothing special, but yet it has taken me months of sporadic work to get it online. I work as a software developer, and so I know first hand that you just have to “ship it”. Yet, here I am, procrastinating the best that I&amp;nbsp;can.&lt;/p&gt;
+&lt;p&gt;I have mixed emotion about this experience and realization. On one hand I’m not surprised that I’m so apprehensive to share &lt;span class=&#34;caps&#34;&gt;MY&lt;/span&gt; thoughts online, but on the other hand I couldn’t be more surprised. Where did this fear come from? Why now? Does it really matter that it is&amp;nbsp;happening?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;No&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Is there a&amp;nbsp;solution?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Yes&lt;/em&gt;. Hit writer’s block right where it hurts and write about the difficulties you’re are&amp;nbsp;having. &lt;/p&gt;
+&lt;p&gt;Just&amp;nbsp;write.&lt;/p&gt;            </content>
+        </entry>
+    </feed>

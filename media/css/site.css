@@ -1,0 +1,151 @@
+
+#full-name-container {height: 78px;
+                        position: relative;}
+#full-name {font-size: 50px; 
+            position: relative; top: 14px;}
+
+#full-name a    {text-decoration: none;}
+
+#links  {margin-left: 0px;
+        height: 78px;}
+
+#main-nav       {margin-left: 0px; 
+                position: relative;
+                top: 41px;}
+
+#main-nav ul    {position: relative;
+                right: 0px;
+                left: 93px;}
+
+#main-nav li    {float: left;
+                margin: 0px 5px;}
+
+#main-nav a     {font-size: 19pt;
+                text-decoration: none;}
+#main-nav a:link {font-size: 19pt;
+                text-decoration: none;}
+
+#main-nav a, a:visited { color: #4D4D4D; font-weight: normal;}
+#main-nav a:hover, a:focus { color: #000; }
+
+#social-buttons  {position: relative; 
+                    top:0px; 
+                    left: 608px; 
+                    height: 20px; 
+                    background-color: #888888; 
+                    width: 150px;
+                    -webkit-border-bottom-right-radius: 8px;
+                    -webkit-border-bottom-left-radius: 8px;
+                    -moz-border-radius-bottomright: 8px;
+                    -moz-border-radius-bottomleft: 8px;
+                    border-bottom-right-radius: 8px;
+                    border-bottom-left-radius: 8px;}
+					
+#social-buttons a {
+					color: white; 
+					font-size: 14px;
+					font-weight:bold;
+					text-decoration: none;}
+
+#social-buttons a:hover, a:focus {
+					color: #4D4D4D; 
+					font-size: 14px;
+					font-weight:bold;
+					text-decoration: none;}
+
+#twitter {top: -78px;
+            position: relative;
+            left: 9px;}
+#github {top: -78px;
+            position: relative;
+            left: 18px;}
+
+.main-content p {font-size: 18px; line-height: 22px}
+.main-content a {text-decoration: none; font-weight: bold; color: #2E5E87;}
+.main-content a:hover {color: #4D4D4D;}
+
+.contact-links {margin-bottom: 30px; height: 40px; }
+.contact-links a {font-size: 35px; text-decoration: none;}
+.contact-links i {font-size: 50px; text-decoration: none; width: 60px;}
+
+.contact-links.right {float: right;}
+
+#email-instruction {text-align: right; font-size: 12px; left: 60px; position: relative; top: -15px;}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    #full-name {font-size: 45px;
+                top: 16px;}
+
+    #main-nav ul {position: relative;
+                    right: 0px;
+                    left: 20px;}
+
+    #social-buttons  {left: 452px;}
+
+    .contact-links {margin-bottom: 30px;}
+    .contact-links a {font-size: 30px; text-decoration: none;}
+    .contact-links i {font-size: 40px; text-decoration: none; width: 45px;}
+    #email-instruction {text-align: right; font-size: 12px; left: 45px; position: relative; top: -15px;}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    #social-buttons  {left: 270px;}
+
+    #twitter {top: -93px;
+            position: relative;
+            left: 10px;
+            color: white;}
+
+    #github {top: -93px;
+            position: relative;
+            left: 20px;
+            color: white;}
+
+    #full-name-container {height: 68px;}
+
+    #full-name      {font-size: 45px;}
+
+    #links          {height: auto;}
+
+    #main-nav {top: 0px;
+                margin-left: auto;
+                margin-right: auto;
+                text-align: center;}
+
+    #main-nav ul {position: relative;
+                right: 0px; 
+                left: 0px;
+                margin-left: auto; 
+                margin-right: auto; 
+                text-align: center;}
+
+    .contact-links {margin-bottom: 30px;}
+    .contact-links a {font-size: 30px; text-decoration: none;}
+    .contact-links i {font-size: 40px; text-decoration: none; width: 45px;}
+    #email-instruction {text-align: right; font-size: 10px; left: 45px; position: relative; top: -15px;}
+}
+
+@media only screen and (max-width: 767px) {
+    #full-name-container    {height: 68px;}
+
+    #links          {height: auto;}
+
+    #main-nav       {top: 0px;
+                        margin-left: auto; 
+                        margin-right: auto; 
+                        text-align: center;}
+
+    #main-nav ul    {position: relative;
+                    right: 0px; 
+                    left: 0px; 
+                    margin-left: auto; 
+                    margin-right: auto; 
+                    text-align: center;}
+
+    #full-name      {font-size: 40px;}
+
+    .contact-links {margin-bottom: 30px;}
+    .contact-links a {font-size: 30px; text-decoration: none;}
+    .contact-links i {font-size: 40px; text-decoration: none; width: 45px;}
+    #email-instruction {text-align: right; font-size: 10px; left: 45px; position: relative; top: -15px;}
+}
