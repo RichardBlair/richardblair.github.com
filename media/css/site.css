@@ -9,7 +9,7 @@
             a:link,
             a:visited,
             a:hover,
-            a:active {text-decoration: none; font-size: 50px; font-weight: normal; }
+            a:active {text-decoration: none; font-size: 50px; font-weight: normal; font-style: normal; font-variant: normal; }
 
 
 #links  {margin-left: 0px;
