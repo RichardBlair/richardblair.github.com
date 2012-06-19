@@ -66,6 +66,7 @@
             position: relative;
             left: 18px;}
 
+
 .main-content p {font-size: 16px; line-height: 22px; }
 .foot_notes p {font-size: 14px; line-height: 22px; }
 .main-content a {text-decoration: none; font-weight: bold; color: #2E5E87; font-size: 18px;}
@@ -93,6 +94,11 @@ footer span {display: block; text-align: center;}
 
 #email-instruction {text-align: right; font-size: 12px; left: 60px; position: relative; top: -15px;}
 
+.blog-entry {border-left: 2px solid #888; padding-left: 8px; }
+.blog-entry:hover {border-left: 2px solid #4D4D4D; padding-left: 8px; }
+.blog-entry h4 a {font-size: 21px;}
+.blog-entry time {font-size: 14px;}
+.blog-entry .excerpt p {font-size: 14px;}
 @media only screen and (min-width: 768px) and (max-width: 959px) {
     #full-name h1 a,
                 h1 a:hover,
