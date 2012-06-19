@@ -79,8 +79,12 @@
 #email-instruction {text-align: right; font-size: 12px; left: 60px; position: relative; top: -15px;}
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
-    #full-name {font-size: 45px;
-                top: 16px;}
+    #full-name h1 a,
+                h1 a:hover,
+                h1 a:link,
+                h1 a:visited,
+                h1 a:hover,
+                h1 a:active {text-decoration: none; font-size: 45px; top: 16px; font-weight: normal; font-style: normal; font-variant: normal; }
 
     #main-nav ul {position: relative;
                     right: 0px;
@@ -109,7 +113,12 @@
 
     #full-name-container {height: 68px;}
 
-    #full-name      {font-size: 45px;}
+    #full-name h1 a,
+                h1 a:hover,
+                h1 a:link,
+                h1 a:visited,
+                h1 a:hover,
+                h1 a:active {text-decoration: none; font-size: 45px; top: 16px; font-weight: normal; font-style: normal; font-variant: normal; }
 
     #links          {height: auto;}
 
@@ -148,7 +157,12 @@
                     margin-right: auto; 
                     text-align: center;}
 
-    #full-name      {font-size: 40px;}
+    #full-name h1 a,
+                h1 a:hover,
+                h1 a:link,
+                h1 a:visited,
+                h1 a:hover,
+                h1 a:active {text-decoration: none; font-size: 40px; top: 16px; font-weight: normal; font-style: normal; font-variant: normal; }
 
     .contact-links {margin-bottom: 30px;}
     .contact-links a {font-size: 30px; text-decoration: none;}
