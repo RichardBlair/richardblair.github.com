@@ -4,12 +4,12 @@
 #full-name {font-size: 50px; 
             position: relative; top: 14px;}
 
-#full-name a,
+#full-name h1 a,
             a:hover,
             a:link,
             a:visited,
             a:hover,
-            a:active {text-decoration: none; font-size: 50px; }
+            a:active {text-decoration: none; font-size: 50px; font-weight: normal; }
 
 
 #links  {margin-left: 0px;
