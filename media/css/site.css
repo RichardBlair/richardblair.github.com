@@ -66,15 +66,30 @@
             position: relative;
             left: 18px;}
 
-.main-content p {font-size: 18px; line-height: 22px}
+.main-content p {font-size: 16px; line-height: 22px; }
+.foot_notes p {font-size: 14px; line-height: 22px; }
 .main-content a {text-decoration: none; font-weight: bold; color: #2E5E87; font-size: 18px;}
 .main-content a:hover {color: #4D4D4D;}
+.main-content time {font-size: 12px;}
+.excerpt p {font-size: 12px; }
+
+.author {margin-top: 20px;}
+.author h4 {margin-bottom: 0px; line-height: 21px;}
+.author a {font-size: 16px;}
+
+.post-disqus {margin-top: 30px;}
+
+.title {margin-bottom: 0px;}
+.title h2 a, h2 a:active, h2 a:visited, h2 a:link {font-weight: bold; font-size: 35px; text-decoration: none; color: #181818; margin-bottom: 0px; }
 
 .contact-links {margin-bottom: 30px; height: 40px; }
 .contact-links a {font-size: 35px; text-decoration: none;}
 .contact-links i {font-size: 50px; text-decoration: none; width: 60px;}
 
 .contact-links.right {float: right;}
+
+footer {margin-top: 50px;}
+footer span {display: block; text-align: center;}
 
 #email-instruction {text-align: right; font-size: 12px; left: 60px; position: relative; top: -15px;}
 
