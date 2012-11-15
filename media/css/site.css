@@ -190,3 +190,7 @@ footer span {display: block; text-align: center;}
     .contact-links i {font-size: 40px; text-decoration: none; width: 45px;}
     #email-instruction {text-align: right; font-size: 10px; left: 45px; position: relative; top: -15px;}
 }
+sup {font-size:xx-small; vertical-align:super;}
+h1, h2, h3, h4, h5, h6 {text-align: left;}
+.section {margin-top: 15px;}
+.sub-section {margin-top: 5px;}
