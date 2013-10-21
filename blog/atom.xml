@@ -2,69 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>
         RSS Feed for RichardLBlair.com    </title>
-        <link href="blog/atom.xml" rel="self" />
+        <link href="/blog/atom.xml" rel="self" />
     
         <link href="/"/>
     
         
-    <updated>2012-06-19T11:07:15Z</updated>
+    <updated>2013-10-21T14:36:34Z</updated>
 
     <id>/blog/atom.xml/</id>
 
-                    <entry>
-            <title type="html">Beating Writer's Block</title>
-            <author><name>Richard L. Blair</name></author>
-            <link href="/blog/beating_writers_block.html"/>
-            <updated>2012-06-19T00:00:00Z</updated>
-            <published>2012-06-19T00:00:00Z</published>
-            <id>/blog/beating_writers_block.html</id>
-                        <category   scheme="/blog/tags"
-                        term="professional_development"
-                        label="Professional_Development" />
-            
-            <content type="html">
-                                &lt;div class=&#34;excerpt&#34;/&gt;
-    &lt;p&gt;
-        Three things I do to beat writer&amp;#8217;s&amp;nbsp;block. 
-    &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;In my last blog post I talked about how I had experienced writer’s block. This left me in a situation that was uncomfortable and vulnerable. After talking with a few friends I got the impression this is something that happens to a lot of people. I wanted to share with you how I have managed to minimize how often I get writer’s block with these three simple&amp;nbsp;steps.&lt;/p&gt;
-&lt;h3 id=&#34;point-form&#34;&gt;Point&amp;nbsp;form&lt;/h3&gt;
-&lt;p&gt;Putting your thoughts before you allows you to filter out your bad ideas before they end up in a blog post and smeared across the internet. This step isn’t just to get your creative juices flowing, but it’s also a great time for you to direct your attention and steer your focus in the right&amp;nbsp;direction.&lt;/p&gt;
-&lt;p&gt;Once you have honed in on a topic you need to start hashing out the points you wish to make. Hopefully by now you have established some sort of flow and can get a good collection of points hashed out. They probably won’t all be amazing, but it&amp;#8217;s okay because you are just trying to get the ball rolling&amp;nbsp;here.&lt;/p&gt;
-&lt;h3 id=&#34;establish-your-tone&#34;&gt;Establish your&amp;nbsp;tone&lt;/h3&gt;
-&lt;p&gt;Sometimes you are trying to compliment someone, appeal to your reader&amp;#8217;s softer side, build people up, or just flat out rage. Whatever it is you want to communicate you need to be aware of your tone. We have all been misunderstood when communicating over text. The lack of body language makes us vulnerable to misinterpretation and being aware of this gives us the upper&amp;nbsp;hand.&lt;/p&gt;
-&lt;p&gt;Once you know what tone you want to use you need to filter through your points, eliminating the ones that could potentially destroy your tone. Don’t be disappointed if a large number of your points suddenly can no longer be used. There is nothing wrong with a short post, but there is everything wrong with a post that goes in a direction you didn’t intend it&amp;nbsp;to.&lt;/p&gt;
-&lt;h3 id=&#34;just-write&#34;&gt;Just&amp;nbsp;write&lt;/h3&gt;
-&lt;p&gt;It’s so simple and so hard all at the same time. The main thing to keep in mind here is that nothing is permanent until it is published. It really doesn’t matter if any of the original text is in the final draft; all that matters is that you got to the final&amp;nbsp;draft. &lt;/p&gt;
-&lt;p&gt;At the end of the day blogging puts you in a vulnerable position, but remember that what you have to say is important. It could be &lt;span class=&#34;caps&#34;&gt;THE&lt;/span&gt; thing someone has been waiting to read, it could make someone’s day or alter someone’s perspective. It might be scary, but it will be well worth&amp;nbsp;it.&lt;/p&gt;
-&lt;p&gt;Put yourself out there. You will be&amp;nbsp;rewarded.&lt;/p&gt;            </content>
-        </entry>
-                            <entry>
-            <title type="html">Writer's Block</title>
-            <author><name>Richard L. Blair</name></author>
-            <link href="/blog/writers_block.html"/>
-            <updated>2012-06-14T00:00:00Z</updated>
-            <published>2012-06-14T00:00:00Z</published>
-            <id>/blog/writers_block.html</id>
-            
-            <content type="html">
-                                &lt;div class=&#34;excerpt&#34;/&gt;
-    &lt;p&gt;
-        Much to my surprise when I sat down to write my first post I hit a&amp;nbsp;wall.
-    &lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;I was really excited to share my thoughts with the world. Writing is something I use to do a lot, but now I have sat down to write my very first post and I’m frozen. I know the points I want to make, the tone I want to use, but I can’t seem to put pen to paper. Or finger to keyboard, rather. I guess this is what they call writer’s block, but I’m just scared to be&amp;nbsp;honest.&lt;/p&gt;
-&lt;p&gt;I have been procrastinating on this for so long. This goes beyond just tonight; it dates back months. It took me forever to put together this site, and look at it. It’s so simple. White background, grey font, some icons from Awesome Font (they really are awesome). This site is really nothing special, but yet it has taken me months of sporadic work to get it online. I work as a software developer, and so I know first hand that you just have to “ship it [1]”. Yet, here I am, procrastinating the best that I&amp;nbsp;can.&lt;/p&gt;
-&lt;p&gt;I have mixed emotion about this experience and realization. On one hand I’m not surprised that I’m so apprehensive to share &lt;span class=&#34;caps&#34;&gt;MY&lt;/span&gt; thoughts online, but on the other hand I couldn’t be more surprised. Where did this fear come from? Why now? Does it really matter that it is&amp;nbsp;happening?&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;No&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Is there a&amp;nbsp;solution?&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Yes&lt;/em&gt;. Hit writer’s block right where it hurts and write about the difficulties you’re are&amp;nbsp;having. &lt;/p&gt;
-&lt;p&gt;Just&amp;nbsp;write.&lt;/p&gt;
-&lt;div class=&#34;foot_notes&#34;&gt;
-[1] - &amp;#8220;ship it&amp;#8221; means to take whatever you&amp;#8217;re working on, and getting it out there.
-&lt;/div&gt;            </content>
-        </entry>
-                        </feed>
+    </feed>
